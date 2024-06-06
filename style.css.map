@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,qBAAqB;AAErB,UAIC;EAHC,WAAW,EAAE,UAAU;EACvB,GAAG,EAAE,oHACmD;AAG1D,IAAK;EACH,WAAW,EAAE,sBAAsB;;ACTrC,qBAAqB;ACArB,gCAAgC;ACAhC,gCAAgC",
+"sources": ["assets/scss/globals/_typography.scss","assets/scss/globals/_interactables.scss","assets/scss/components/_navbar.scss","assets/scss/components/_footer.scss"],
+"names": [],
+"file": "style.css"
+}
